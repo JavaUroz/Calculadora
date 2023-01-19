@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calc.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="100">
+            <Label Text="Vamos a calcular!" HorizontalTextAlignment="Center" TextColor="Black" FontSize="50"/>
+        </Frame>
+        <Label Text="" Padding="10"/>
+        <Entry Placeholder="Ingrese un Número" FontSize="25" x:Name="txtN1"/>
+        <Entry Placeholder="Ingrese un Número" FontSize="25" TextColor="Black" x:Name="txtN2"/>
+        <Label Text="Seleccione operación" FontSize="Title" Padding="30,10,10,30"/>
+        <Picker x:Name="pkOper" SelectedIndexChanged="pkOper_SelectedIndexChanged"/>
+        <Label Text="...................." FontSize="30" Padding="30,0,30,0" x:Name="lblRes"/>
+    </StackLayout>
+
+</ContentPage>
