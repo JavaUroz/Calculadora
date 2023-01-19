@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OaH70WKMvL9w7mADj9seYcy7c1QSNmtojKas0e8MiAEBmudGig58ySSckRQgVMXKgAu6/rOQyPxzgljr5j+lTA==",
+  "dgSpecHash": "SNngVmaMr8YTGFILc4tia2XPJ+jQrv7QuQUCs8wA9OgxOcwIccv7PT93Vm8SY2z3/xFv/W/xxXHxjqunpRLeqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.iOS\\Calc.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.iOS\\Calc.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Javier Uroz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Javier Uroz\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

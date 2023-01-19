@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.Android\\Calc.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.Android\\Calc.Android.csproj",
       "projectName": "Calc.Android",
-      "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.Android\\Calc.Android.csproj",
+      "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.Android\\Calc.Android.csproj",
       "packagesPath": "C:\\Users\\Javier Uroz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.Android\\obj\\",
+      "outputPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj": {
-              "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj"
+            "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj": {
+              "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj"
             }
           }
         }

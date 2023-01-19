@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/HuTWtg1R6XSnL+bmkyTz8QjrPkRxSRY5btfg4poZGWwIt077PcK/3qw1dGPOFxOX6+UCkXZROv1xtU59c9xg==",
+  "dgSpecHash": "v355bgV7sgVeRTYinGnipvfcyD3Etu5zCutEnQ6Ig/J5ISuIMoWkJ/8Y1Y5M77TRTL4Kd/Le8MVz6qIPF/mQfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.Android\\Calc.Android.csproj",
+  "projectFilePath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.Android\\Calc.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Javier Uroz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Javier Uroz\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

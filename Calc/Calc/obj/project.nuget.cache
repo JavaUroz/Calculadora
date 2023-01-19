@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "81enpKsB5MHgSjtRDsXLBbO7PuNipX+v3Bpp+1fBT/GdqFXqKm1jSMfAu3iCRAo+e3xsIQn8HQx1ncVt79U9Kw==",
+  "dgSpecHash": "xNvi0t7v8+a8qRpS1/2LziS22fRtZsyzIvgKLtlpMgM3XA1dIMV4O/cUGhdHFTTEb/TkpP5l1X1nk0aAiIXBOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj",
+  "projectFilePath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Javier Uroz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Javier Uroz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

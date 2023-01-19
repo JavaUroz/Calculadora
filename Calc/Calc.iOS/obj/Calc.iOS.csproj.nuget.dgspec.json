@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.iOS\\Calc.iOS.csproj": {}
+    "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.iOS\\Calc.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.iOS\\Calc.iOS.csproj": {
+    "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.iOS\\Calc.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.iOS\\Calc.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.iOS\\Calc.iOS.csproj",
         "projectName": "Calc.iOS",
-        "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.iOS\\Calc.iOS.csproj",
+        "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.iOS\\Calc.iOS.csproj",
         "packagesPath": "C:\\Users\\Javier Uroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj": {
-                "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj"
+              "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj": {
+                "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj": {
+    "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj",
         "projectName": "Calc",
-        "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\Calc.csproj",
+        "projectPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\Calc.csproj",
         "packagesPath": "C:\\Users\\Javier Uroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calc\\Calc\\Calc\\obj\\",
+        "outputPath": "C:\\Users\\Javier Uroz\\source\\repos\\Calculadora\\Calc\\Calc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
